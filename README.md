@@ -32,3 +32,11 @@
 
 ![photo_2024-12-01_18-15-23](https://github.com/user-attachments/assets/238c3a21-98b9-4b10-bb53-0032503a023b)
 
+مطابق عکس‌های زیر، profiling کد جدید بعد از تغییر تابع temp به شکل زیر می‌باشد:
+
+![photo_2024-12-01_18-17-51](https://github.com/user-attachments/assets/8f8eeaff-4823-4a74-b9e8-b0f66a85ea64)
+
+![photo_2024-12-01_18-17-57](https://github.com/user-attachments/assets/0e09944f-b8c9-44ac-9089-61330d9c118a)
+
+
+
